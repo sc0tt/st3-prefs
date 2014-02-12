@@ -1,0 +1,14 @@
+{
+	"auto_complete_commit_on_tab": true,
+	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"ignored_packages":
+	[
+		"Vintage"
+	],
+	"scroll_past_end": false,
+	"spell_check": true,
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true
+}

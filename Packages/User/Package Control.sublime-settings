@@ -1,0 +1,13 @@
+{
+	"installed_packages":
+	[
+		"GitGutter",
+		"Jedi - Python autocompletion",
+		"Monokai Extended",
+		"Open Folder",
+		"Pylinter",
+		"SFTP",
+		"SublimeLinter",
+		"Theme - Soda"
+	]
+}
